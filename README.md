@@ -21,7 +21,7 @@ In the demo site, the server is simply flipping the image horizontally. You coul
 - The server does not handle multiple clients well. If multiple clients connect, the server treats them as one and sends back mixed frames as a result.
 
 ### Demo
-[Live Demo](https://python-stream-video.herokuapp.com)
+[df-cam DEMO](https://df-cam.herokuapp.com)
 
 ### Setup
 
